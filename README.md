@@ -3,7 +3,7 @@ A .NET Framework console app displaying the Mars Rover.
 
 Given more time I would:
 
-  * Tidy Program.cs and parser
+  * Tidy Program.cs and parser - parser should fail more silently
   * Make orientations a linked list (i.e N -> E -> S -> W -> N etc)
   * Add more tests - which properly check finished & lost
   * Add ToString() check to some unit tests
